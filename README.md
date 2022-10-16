@@ -1,1 +1,1 @@
-# DataScience-studies-
+# DataScience_studies
