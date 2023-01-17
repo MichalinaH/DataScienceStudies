@@ -1,3 +1,3 @@
 # DataScienceStudies
-EWD - introduction to Machine Learning /n
-PAD - programiing in Python 
+EWD - introduction to Machine Learning <br>
+PAD - programing in Python 
